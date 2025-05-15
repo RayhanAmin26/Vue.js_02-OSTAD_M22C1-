@@ -10,8 +10,9 @@ const capital = "Mwosko"
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <h1>Welcome to {{ country }}</h1>
-      <p>The capital is {{ capital }} </p>
+      <!-- <h1>Welcome to {{ country }}</h1>
+      <p>The capital is {{ capital }} </p>  -->
+      <AlertComponent/>
      
     </div>
   </header>
